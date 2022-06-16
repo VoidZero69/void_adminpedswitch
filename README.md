@@ -4,7 +4,7 @@
 
 ## Features
 1. Switching skin with a single command (/switch)
-2. Can choose diffrent peds for female admins and male admins
+2. Can choose different peds for female admins and male admins
 3. Easy to configure
 
 ## Installation
